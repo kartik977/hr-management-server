@@ -1,6 +1,6 @@
 const express = require('express');
 const app = express();
-const port = 3001;
+const port = 8080;
 // const cors = require('cors')
 // var whitelist = ['http://localhost:3000']
 // var corsOptions = {
